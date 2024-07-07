@@ -17,3 +17,7 @@ Funcionalidades Implementadas
     Queries Customizadas com Spring Data JPA: Exemplos de como criar queries personalizadas utilizando Spring Data JPA.
     Relacionamento ManyToOne com JoinColumn: Implementação de relacionamento ManyToOne utilizando JoinColumn para mapeamento de entidades.
     Logs com SLF4J: Demonstração de como efetuar logs utilizando o SLF4J.
+
+## Collection da API
+    
+    Baixe o [arquivo de coleção Insomnia](./salesnotification-collection).
